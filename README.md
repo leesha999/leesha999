@@ -42,5 +42,5 @@ I'm a student in Sydney, Australia (NSW) who likes building things that actually
 
 * **Business & Client Work:** Junior MBA program graduate; delivered websites, apps, branding, and content for companies, NGOs, healthcare/rehab centers, and charities
 * **Academic & Merits:** Recipient of multiple Academic Excellence Awards, Commendations, Subject Awards, Endeavours, and Merits
-* **Leadership & Media:** School SRC Member, Peer Support Leader, Competitive Debater, MUN Delegate, and School Podcast Host/Script Writer/Editor
+* **Leadership & Media:** Competitive Debater, Public Speaking, MUN Delegate, and Podcast Host/Script Writer/Editor
 
