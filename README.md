@@ -36,6 +36,10 @@ I'm a student in Sydney, Australia (NSW) who likes building things that actually
 ![Adobe Fresco](https://img.shields.io/badge/Adobe%20Fresco-FF4A5C?style=for-the-badge&style=flat-square&logo=adobe&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-1E293B?style=for-the-badge)
 
+### Development Environments & Tools
+
+[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,androidstudio,jupyter,anaconda,unity,nodejs,php,mysql,figma)](https://skillicons.dev)
+
 ---
 
 ### 🏅 Highlights & Recognition
