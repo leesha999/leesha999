@@ -5,8 +5,8 @@ I'm a student in Sydney, Australia (NSW) who likes building things that actually
 
 * **Client Web & App Development:** I've built websites and mobile apps for companies, focusing on practical functionality, usability, and clean execution from idea to launch.
 * **Design, Branding & Content for Organizations:** Beyond web and app builds, I've done graphic design, logo design, and content writing for companies, medical professionals, NGOs, rehabilitation centers, and charitable organizations.
-* **Competitions & Hackathons:** Finalist in the **Innoventure Competition (Innovative Minds)**, and an active participant in hackathons and code-fests.
-* **Tech & Innovation:** Experienced with **Machine Learning, AI models**, website and mobile app development, video games, and robotics, working with **JavaScript, React.js, Node.js, C, C++, C#, PHP, Ruby, R, HTML, CSS, and MySQL**.
+* **Competitions & Hackathons:** Finalist in the **Innoventure Competition (Innovative Minds)**, and took part in multiple hackathons and code-fests.
+* **Tech & Innovation:** Experienced with **Machine Learning, AI models**, website and mobile app development, full-stack, video games, and robotics, working with **JavaScript, React.js, Node.js, C, C++, C#, PHP, Ruby, R, HTML, CSS, and MySQL**.
 
 ---
 
