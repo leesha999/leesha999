@@ -38,9 +38,7 @@ I'm a student in Sydney, Australia (NSW) who likes building things that actually
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -52,6 +50,34 @@ I'm a student in Sydney, Australia (NSW) who likes building things that actually
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Intel RealSense](https://img.shields.io/badge/Intel%20RealSense-0071C5?style=for-the-badge)
+
+### 🖥️ Development Environments & IDEs
+
+[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,androidstudio,jupyter,anaconda)](https://skillicons.dev)
+
+### 🔧 Development Tools & Version Control
+
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,npm)](https://skillicons.dev)
+
+### 🗄️ Databases & Backend Management
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+### 🎮 Game Development & 3D Technologies
+
+[![Game Development](https://skillicons.dev/icons?i=unity,blender,unreal)](https://skillicons.dev
+)
+
+### 🎨 UI/UX, Graphic Design & Creative Software
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Fresco](https://img.shields.io/badge/Adobe%20Fresco-FF4A5C?style=for-the-badge&logo=adobe&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-1E293B?style=for-the-badge)
 
 
 ### 🏅 Highlights & Recognition
