@@ -2,7 +2,7 @@
 
 I'm a student in Sydney, Australia (NSW) who likes building things that actually work in the real world—whether that's coding a website or app for a company, designing a brand, or thinking through how a project grows as a business.
 
-### Business + Tech (Where I Spend Most of My Energy)
+### Business + Tech 
 
 My **Junior MBA** shaped how I approach almost everything I build. Covering **entrepreneurship, UI/UX design, technology, data analytics, consulting, finance, advertisment and marketing**, it taught me to look past just writing code and ask who the user is, what problem actually needs solving, what the data shows, and how a product holds up practically and commercially.
 
