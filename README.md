@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leesha Addagarla 👋
 
-I'm a student in Sydney, Australia (NSW) who likes building things that actually work in the real world—whether that's coding a website or app for a company, designing a brand, or thinking through how a project grows as a business.
+I'm a student in Sydney, Australia (NSW) who likes building things that actually work in the real world, whether that's coding a website or app for a company, designing a brand, or thinking through how a project grows as a business.
 
 
 * **Client Web & App Development:** I've built websites and mobile apps for companies, focusing on practical functionality, usability, and clean execution from idea to launch.
